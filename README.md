@@ -7,5 +7,5 @@ text based game, and was very pleased with the end result.
 The game was developed using Java on Eclipse.
 
 # Improvement In The Future?
-I plan on adding a geminglog where it records the gaming process into a file, where the user is able to see his/her previous
+I plan on adding a gaminglog where it records the gaming process into a file, where the user is able to see his/her previous
 process.
